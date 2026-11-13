@@ -4,7 +4,7 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah dengan mengimplementasikan ko
 
 ## Identitas Pemilik Proyek
 * **Nama:** Nadya Shafwah Mujahidin
-* **NIM:** 202557201045
+* **NIM:** 202557201048
 
 ---
 
