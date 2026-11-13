@@ -9,7 +9,7 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah dengan mengimplementasikan ko
 ---
 
 ## Deskripsi Singkat Proyek
-Repositori ini berisi file konfigurasi dasar (*Dockerfile*) dan halaman web statis (*index.html*) yang menampilkan profil pribadi, hobi/keahlian (membuat kue, mendengarkan musik Dewa 19, Sheila On 7, dan Perunggu, serta membaca novel), serta pandangan mengenai teknologi container. Proyek ini dijalankan di atas web server Nginx menggunakan *base image* `nginx:alpine` yang ringan.
+Repositori ini berisi file konfigurasi dasar (*Dockerfile*) dan halaman web statis (*index.html*) yang menampilkan profil pribadi, hobi/keahlian (membuat kue, mendengarkan musik Dewa 19, Sheilaon7, dan Perunggu, serta membaca novel), serta pandangan mengenai teknologi container. Proyek ini dijalankan di atas web server Nginx menggunakan *base image* `nginx:alpine` yang ringan.
 
 ---
 
