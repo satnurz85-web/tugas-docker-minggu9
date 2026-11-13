@@ -38,7 +38,7 @@ Ikuti langkah-langkah berikut di terminal Linux/Ubuntu Anda untuk menjalankan co
 2. **Jalankan Docker Container:**
    Jalankan container dalam mode latar belakang (*detached*) dengan memetakan port host `8082` ke port container `80`:
    ```bash
-   docker run -d --name profil-nadyashafwah -p 8082:80 profil-nadyashafwah:1.0
+   docker run -d --name profil-nadyashafwahmujahidin -p 8082:80 profil-nadyashafwahmujahidin:1.0
 3. **Akses di Browser:**
    Buka browser internet (Chrome/Edge/Firefox) dan kunjungi alamat berikut untuk melihat hasil halaman web:
    ```text
