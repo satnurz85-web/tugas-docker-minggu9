@@ -43,7 +43,6 @@ Ikuti langkah-langkah berikut di terminal Linux/Ubuntu Anda untuk menjalankan co
    Buka browser internet (Chrome/Edge/Firefox) dan kunjungi alamat berikut untuk melihat hasil halaman web:
    ```text
    http://localhost:8082
-cat >> README.md <<'EOF'
 
 ## Hasil
 
