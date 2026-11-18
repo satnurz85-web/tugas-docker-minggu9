@@ -60,30 +60,6 @@ cat >> README.md <<'EOF'
 ![docker ps](screenshots/docker-ps.png)
 
 ### Tampilan di Browser (localhost:8082)
-![localhost 8082](screenshots/local-8082.png)
-
-### Docker Hub
-![Docker Hub](screenshots/hub-docker.png)
-
-### Git
-![git](screenshots/git.png)
-cat >> README.md <<'EOF'
-
-## Hasil
-
-### Isi index.html
-![index.html](screenshots/index-html.png)
-
-### Build Image
-![docker build](screenshots/build.png)
-
-### Daftar Image
-![docker images](screenshots/docker-images.png)
-
-### Container Berjalan
-![docker ps](screenshots/docker-ps.png)
-
-### Tampilan di Browser (localhost:8082)
 ![localhost 8082](screenshots/localhost-8082-baru.png)
 
 ### Docker Hub
