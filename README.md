@@ -68,6 +68,6 @@ Ikuti langkah-langkah berikut di terminal Linux/Ubuntu Anda untuk menjalankan co
 ![git](screenshots/git.png)
 
 ### Halaman Repositori Github
-![Halaman Respositori Github](screenshots/Halaman respositori Github.png)
+![Halaman Respositori Github]([screenshots/Halaman respositori Github.png](https://github.com/satnurz85-web/tugas-docker-minggu9/blob/578be1d96b1b6a6cca25fdfbdbd660e8446a72df/screenshots/Halaman%20respositori%20Github.png))
 
 
