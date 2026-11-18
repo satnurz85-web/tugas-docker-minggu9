@@ -67,8 +67,5 @@ Ikuti langkah-langkah berikut di terminal Linux/Ubuntu Anda untuk menjalankan co
 ### Git
 ![git](screenshots/git.png)
 
-### Halaman Repositori Github
-![Halaman Repositori Github](screenshots/Halaman%20repositori%20Github.png)
-
 ### Halaman Repositori GitHub
 ![Halaman repositori GitHub](screenshots/halaman-repositori-github.png)
